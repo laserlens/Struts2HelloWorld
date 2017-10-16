@@ -5,7 +5,7 @@
     
  <struts>
  	<package name="main" extends="struts-default">
- 		<action name="hello" class="com.learning.HelloAction">
+ 		<action name="hello" class="com.learning.actions.HelloAction">
  			<result name="success" >pages/hello.jsp</result>
  		</action>
  	</package>

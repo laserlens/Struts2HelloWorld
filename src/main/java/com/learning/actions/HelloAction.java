@@ -1,4 +1,4 @@
-package com.learning;
+package com.learning.actions;
 
 import com.opensymphony.xwork2.Action;
 
